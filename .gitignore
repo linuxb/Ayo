@@ -1,0 +1,12 @@
+.vscode
+.idea
+constants
+state.json
+res
+node_modules
+**/*.log
+*.txt
+package-lock.json
+build
+dest
+bin
